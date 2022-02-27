@@ -4,10 +4,10 @@ W. Avy is planning to open a new surf and ice cream shop. He would like us to fi
 ## Results
 Three key differences in the temperature data between the months of June and December are:
 - The biggest take away we got was that there was almost 2,000 more reading in June than there was in December.
- - June had 1,700 readings
- - December had 1,517 readings
+  June had 1,700 readings
+  December had 1,517 readings
 - The temperatures are over lower in December than they are in June
- - December's averager temp is around 71
- - June's average temp is around 75  
+  December's averager temp is around 71
+  June's average temp is around 75  
 ![Dec](dec.png)                  ![June](june.png)
 - 
